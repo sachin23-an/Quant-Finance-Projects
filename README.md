@@ -21,7 +21,7 @@ The projects in this repository are inspired by industry-relevant quant models, 
 * Value at Risk (VaR, CVaR, Stress Testing)
 * Portfolio Optimization (Efficient Frontier, Sharpe Ratio)
 
-These are based on structured frameworks similar to those used in professional quant research. 
+These are based on structured frameworks similar to those used in professional quant research 
 
 ---
 
